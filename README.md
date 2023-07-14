@@ -1,5 +1,5 @@
 # Segment Anything
---------------------------------------------------------------------------------
+
 ### 実行例
 ```
 pip install -e .
@@ -8,8 +8,8 @@ mkdir weights/vit_h
 cd weights/vit_h
 wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 ```
-demo.ipynbを起動
---------------------------------------------------------------------------------
+demo.ipynbを起動<br>
+
 
 **[Meta AI Research, FAIR](https://ai.facebook.com/research/)**
 
