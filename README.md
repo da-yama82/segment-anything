@@ -8,7 +8,7 @@ mkdir weights/vit_h
 cd weights/vit_h
 wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 ```
-demo.ipynbを起動
+demo.ipynbを起動<br>
 ※ vit_hの重みは2.38GB
 
 **[Meta AI Research, FAIR](https://ai.facebook.com/research/)**
